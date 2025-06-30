@@ -3,7 +3,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom';
 import Task from './components/Task';
 import About from './components/About';
 import Navbar from './components/Navbar';
-
+  
 
 const App=()=>{
 return(
