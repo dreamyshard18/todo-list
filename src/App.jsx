@@ -12,7 +12,7 @@ return(
   <div className="App">
     <Navbar />
     
-     <h1 className='todo'>✨My To-Do List💫</h1>
+     <h1 className='todo'>✨My To-Do List in a new branch💫</h1>
     <main>
       <Routes>
         <Route className="home" path="/" element={<Task />} />
